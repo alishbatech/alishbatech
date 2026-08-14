@@ -8,7 +8,7 @@ Learning Full-Stack Development
 
 </h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhrNmw5cnZ1Ymd6ZHJ2MjdpN3ppamE0ZG4yZmF0cHRuZGFzcHU1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
 
 - 📂 I'm currently learning **React, Tailwind CSS**
 - 📂 All of my projects are available at [https://github.com/alishbatech](https://github.com/alishbatech)
